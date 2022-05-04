@@ -1,0 +1,28 @@
+_repo: Mr-Keegan-s-Elopement_67957
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Churchill, Winston
+    birthdate: 1871
+    deathdate: 1947
+    gutenberg_agent_id: '213'
+    url: http://www.gutenberg.org/2009/agents/213
+    wikipedia: https://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
+description: ''
+gutenberg_issued: '2022-04-30'
+identifiers:
+  gutenberg: '67957'
+language: en
+pgterms:marc905: 20220212161651churchill
+pgterms:marc906: '1896'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :The Macmillan Company,1896,copyright 1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mr. Keegan's Elopement
+url: http://www.gutenberg.org/ebooks/67957
