@@ -1,5 +1,8 @@
 _repo: Mr-Keegan-s-Elopement_67957
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67957-h/images/cover.jpg
 creator:
   author:
     agent_name: Churchill, Winston
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/213
     wikipedia: https://en.wikipedia.org/wiki/Winston_Churchill_(novelist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67957#Mr-Keegan-s-Elopement
 gutenberg_issued: '2022-04-30'
 identifiers:
   gutenberg: '67957'
